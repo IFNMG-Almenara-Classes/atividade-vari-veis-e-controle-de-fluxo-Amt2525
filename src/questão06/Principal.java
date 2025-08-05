@@ -20,7 +20,7 @@ public class Principal {
         }else if(n2<n1 && n2<n3){
             System.out.println("O menor é: "+n2);
         }else{
-            System.out.println("O menor é: "+n3);
+            System.out.println("O menorr é: "+n3);
         }
 
         entrada.close();
