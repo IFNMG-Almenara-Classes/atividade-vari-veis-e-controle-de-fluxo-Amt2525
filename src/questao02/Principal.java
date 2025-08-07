@@ -35,5 +35,6 @@ public class Principal {
         }else if(imc>=40){
             System.out.println("Seu IMC é: "+imc+" e vocé está no nível: Obesidade Grau III (Mórbida)");
         }
+        entrada.close();
     }
 }

@@ -18,6 +18,6 @@ public class Principal {
         }else{
             System.out.println("Números iguais");
         }
-
+        entrada.close();
     }
 }
